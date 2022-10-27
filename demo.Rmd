@@ -12,6 +12,10 @@ output:
 
 # Introduction
 
+For more context, check our paper on
+_Electronic common technical document submission with analysis using R_
+(<https://doi.org/10.1177/17407745221123244>).
+
 ```{r}
 packageVersion("pkglite")
 ```
