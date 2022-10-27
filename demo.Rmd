@@ -2,12 +2,34 @@
 title: "pkglite demo"
 output:
   html_document:
+    toc: true
+    number_sections: true
     theme:
       version: 5
       primary: "#00857C"
     highlight: "textmate"
 ---
 
+# Introduction
+
 ```{r}
 packageVersion("pkglite")
 ```
+
+# One package
+
+## Pack one package
+
+## Define packing scope: file specifications
+
+## Unpack to restore package structure
+
+## Unpack and install
+
+# Multiple packages
+
+## Control packing order
+
+## Unpack and install
+
+# Summary
