@@ -1,0 +1,13 @@
+---
+title: "pkglite demo"
+output:
+  html_document:
+    theme:
+      version: 5
+      primary: "#00857C"
+    highlight: "textmate"
+---
+
+```{r}
+packageVersion("pkglite")
+```
